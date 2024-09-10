@@ -25,21 +25,7 @@ git clone https://github.com/Faizanusmani06/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
-3. Install dependencies:
 
-```
-npm install
-```
-
-## Usage
-
-1. Start the development server:
-
-```
-npm start
-```
-
-2. Access the Tic-Tac-Toe game through your browser at `http://localhost:3000`.
 
 ## How to Play
 
